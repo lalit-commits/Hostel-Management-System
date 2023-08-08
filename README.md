@@ -32,9 +32,10 @@ The solution offers an efficient and user-friendly interface for administrators 
 ## DataBase used : MySql
 
 The database consist of three tables:-
+
+
 <img width="335" alt="tables" src="https://github.com/lalit-commits/Hostel-Management-System/assets/75823395/1de40d12-9f5d-4e0a-89ed-33db9ae7e66a">
 
-The Database consists of three tables:
 1.  Room Table:
     Stores information about hostel rooms, such as room number, capacity, and availability.
     
